@@ -1,4 +1,4 @@
-Hash_Heroes_Repot_final.docx-report for the union_find datastructures by our team
+Hash_Heroes_Report.docx-report for the union_find datastructures by our team
 
 Hash_Heroes_presentation_final.pptx- presentation for union_find datastructures by our team
 
