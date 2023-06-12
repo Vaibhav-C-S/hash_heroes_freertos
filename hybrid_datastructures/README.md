@@ -1,6 +1,6 @@
-Hash_Heroes_Report.docx-report for the union_find datastructures by our team
+Hash_Heroes_Report.docx-report for the union_find with avl trees datastructures by our team
 
-Hash_Heroes_presentation_final.pptx- presentation for union_find datastructures by our team
+Hash_Heroes_presentation_final.pptx- presentation for union_find with avl trees datastructures by our team
 
 unionfind.py-contains the python file of our code
 
